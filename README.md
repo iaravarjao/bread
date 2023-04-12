@@ -1,6 +1,10 @@
 # Bread Padaria&Confeitaria
 This project was generated with Angular CLI version 15.0.4.
 
-The page still under construction, requiring maintenance at some points. I am open to suggestions and ideas for improving the project.
-
 https://iaravarjao.github.io/bread/
+
+-------------------
+
+Criei também, em excel, um banco de dados fictício deste estabalecimento para controle dos recursos humanos (funcionários). Caso queira o arquivo por favor me solicite e explico sobre a criação dele.
+
+[Link para visualização do dashboard](https://github.com/iaravarjao/bread/blob/main/dashboard_rh.jpg)
